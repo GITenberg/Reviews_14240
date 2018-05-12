@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5421
     wikipedia: http://en.wikipedia.org/wiki/Robert_Baldwin_Ross
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14240#Reviews
 gutenberg_issued: '2004-12-02'
 gutenberg_type: Text
 identifiers:
